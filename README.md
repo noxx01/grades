@@ -1,3 +1,3 @@
 ### grades
 
-It tells you if the grades are for Aprove (>=6) or not (<6)
+It tells if Approved (>=6) or Disapproved (<6)
